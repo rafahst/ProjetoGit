@@ -1,0 +1,1 @@
+Antes de trabalhar com o codigo leia atenciosamente esse projeto.
